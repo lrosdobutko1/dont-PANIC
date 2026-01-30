@@ -1,3 +1,6 @@
+---
+---
+
 > ## Enjoy the ride, because it's going to get bumpy! 
 > 
 > ### I lied. It's already bumpy, and it's only going to get worse from here. It's bumps all the way down!
@@ -14,6 +17,7 @@
 ***  
 
 ## Blog Post:  
+
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
