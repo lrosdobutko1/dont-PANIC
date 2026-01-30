@@ -1,5 +1,3 @@
----
----
 
 > ## Enjoy the ride, because it's going to get bumpy! 
 > 
@@ -18,6 +16,3 @@
 
 ## Blog Post:  
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
