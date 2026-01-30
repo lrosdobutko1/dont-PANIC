@@ -14,13 +14,3 @@
 
 ***  
 
-## Blog Posts:  
-
-Introduction: [Don't PANIC-2026-01-29]( _posts/2026-01-29-initial-commit.md "Posted 2026-01-29").
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
