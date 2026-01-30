@@ -17,4 +17,4 @@ In fact, I will frequently trip over the cutting edge, and probably knock all of
 Don't ask why I'm surrounded by tables covered in good china. It's a whole thing ...  
 But if you have any interest in watching someone fail repeatedly until there's literally no possible way to fail again (and then manage to find one more) before succeeding, then stick around.  
 It might be entertaining, and I could use the company.  
-The cats are getting sick of listening to all of my jokes, and I need a new audience.
+The cats are getting sick of listening to all of my jokes, and I need a new audience.  
