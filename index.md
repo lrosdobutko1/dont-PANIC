@@ -16,4 +16,4 @@
 
 ## Blog Posts:  
 
-Introduction: [Don't PANIC-01]( _posts/2026-01-29-initial-commit.md "Posted 2026-01-29").
+Introduction: [Don't PANIC-2026-01-29]( _posts/2026-01-29-initial-commit.md "Posted 2026-01-29").
