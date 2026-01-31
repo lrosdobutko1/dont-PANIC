@@ -19,7 +19,6 @@ permalink: /
 > Also, if I have to suffer through the growing pains of being a junior again, I find it just a little bit more bearable if I can make as many other people as possible suffer with me. I'm not *just* a masochist.  
 
 ## Posts:  
-***  
 
 <ul>
   {% for post in site.posts %}
