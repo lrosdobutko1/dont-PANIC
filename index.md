@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Don't Panic!"
+description: "A new dev’s descent into indie game development, software development, doubt, and questionable life choices."
+permalink: /
+---
+
 
 ## Enjoy the ride, because it's going to get bumpy! 
 > 
