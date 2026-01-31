@@ -1,7 +1,3 @@
-layout: post
-title: "Initial Commit"
-date: 2026-01-29 
-categories: BLOG 
 
 ## A new developer blog?  
 It's more likely than you think ...  
