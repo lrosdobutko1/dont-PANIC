@@ -3,6 +3,7 @@ layout: default
 title: "Don't Panic!"
 description: "A new dev’s descent into indie game development, software development, doubt, and questionable life choices."
 permalink: /
+author: Lawrence R.
 ---
 
 
@@ -26,4 +27,11 @@ permalink: /
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul>
+</ul>  
+
+***  
+
+<a href="{{ "/feed.xml" | relative_url }}">RSS</a>  
+
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | relative_url }}">
+
